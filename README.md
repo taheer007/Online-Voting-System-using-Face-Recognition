@@ -130,6 +130,7 @@ Once, the voting process is completed, the admin can view the voting results ins
 ## APPLICATIONS:
 
 •	Used in National Elections.
+•	Used in Board Elections .
 •	Used in Television shows.
 •	Used in taking mass opinions.
 
