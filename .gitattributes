@@ -1,1 +1,6 @@
 *.largefileextension filter=lfs diff=lfs merge=lfs -text
+Main_Folder/my_env/Lib/site-packages/face_recognition_models/models/*.dat filter=lfs diff=lfs merge=lfs -text
+Main_Folder/my_env/Lib/site-packages/cv2/*.pyd filter=lfs diff=lfs merge=lfs -text
+Main_Folder/my_env/Lib/site-packages/numpy.libs/*.dll filter=lfs diff=lfs merge=lfs -text
+Main_Folder/my_env/Lib/site-packages/scipy.libs/*.dll filter=lfs diff=lfs merge=lfs -text
+Main_Folder/code/*.yml filter=lfs diff=lfs merge=lfs -text
